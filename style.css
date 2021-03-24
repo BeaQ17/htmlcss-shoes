@@ -30,7 +30,7 @@ ul > li > a{
     color: black;
 }
 
-span{
+.dot{
     background-color: white;
     border-radius: 50%;
     padding: 7px 9px;
