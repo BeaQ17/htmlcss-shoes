@@ -9,13 +9,15 @@ body{
     font-family: 'Rubik Mono One', sans-serif;
 }
 
-nav{
-    line-height: 100px;
+.right{
+    line-height: 70px;
     width: 100%;
     background-color: red;
-    text-align: right;
-    
+    text-align: right;  
+    position: fixed;
+    z-index: 2;
 }
+
 
 
 ul > li{
